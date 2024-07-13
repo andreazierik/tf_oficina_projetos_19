@@ -4,7 +4,3 @@ data "aws_subnets" "public-subnets" {
     values = ["Public-*"]
   }
 }
-
-output "aws_subnets" {
-  value = data.aws_subnets.public-subnets[*]
-}
