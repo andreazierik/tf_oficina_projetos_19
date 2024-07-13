@@ -1,4 +1,7 @@
+.infracost/*
 .terraform/*
 .terraform.lock.hcl
 docker-compose.yml
+infracost-base.json
 op19.json
+terraform.tfvars
