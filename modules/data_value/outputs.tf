@@ -1,6 +1,6 @@
 output "vpc-id" {
   description = "Exportando o VPC ID para utilizar em outros modulos"
-  value       = data.aws_vpcs.default-vpc.ids
+  value       = data.aws_vpcs.default-vpc.ids[0]
 }
 
 output "public-subnet" {
