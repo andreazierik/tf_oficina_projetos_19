@@ -23,3 +23,14 @@ module "rds" {
 
   depends_on = [module.data]
 }
+
+ module "ec2" {
+  source = "./modules/ec2"
+
+  projeto       = var.projeto
+  vpc_id        = module.data.vpc-id
+  qtd           = var.qtd
+  instance_type = var.instance_type
+  ssh_key       = var.ssh_key
+  public_subnet = module.data.public-subnet[0]
+}

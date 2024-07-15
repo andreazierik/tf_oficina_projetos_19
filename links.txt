@@ -1,0 +1,9 @@
+https://www.google.com/search?q=how+to+block+access+to+magento+admin+panel%3F&oq=how+to+block+access+to+magento+admin+panel%3F&gs_lcrp=EgZjaHJvbWUyBggAEEUYQDIHCAEQIRifBdIBCTQ4NzcyajBqNKgCALACAQ&sourceid=chrome&ie=UTF-8
+https://www.mgt-commerce.com/tutorial/restrict-magento-admin-panel-access/#:~:text=Access%20your%20Magento%20Admin%20Panel,Select%20Access%20Restriction%20to%20Yes.
+https://developer.adobe.com/commerce/testing/functional-testing-framework/two-factor-authentication/
+https://github.com/magento/magento2/issues/29312
+https://experienceleague.adobe.com/en/docs/commerce-operations/installation-guide/composer
+https://www.mgt-commerce.com/tutorial/install-magento-2-on-localhost/
+https://experienceleague.adobe.com/en/docs/commerce-operations/installation-guide/system-requirements
+https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cache/redis/redis-pg-cache#using-aws-elasticache-with-your-ec2-instance
+https://www.magenteiro.com/blog/magento-2/magento-2-rabbitmq/

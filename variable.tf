@@ -46,3 +46,19 @@ variable "db_password" {
   type        = string
   sensitive   = true
 }
+
+# modulo ec2
+variable "qtd" {
+  description = "Quantidade de instancias EC2"
+  type        = number
+}
+
+variable "instance_type" {
+  description = "Tipo de instancia para subir as EC2"
+  type        = string
+}
+
+variable "ssh_key" {
+  description = "Chave SSH para conectar nas maquinas"
+  type        = string
+}

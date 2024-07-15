@@ -6,3 +6,8 @@ output "network-info" {
     private_subnet = module.data.private-subnet
   }
 }
+
+output "rds-endpoint" {
+  description = "Enpoint do cluster MySQL"
+  value = module.rds.rds
+}
